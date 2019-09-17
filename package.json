@@ -1,0 +1,19 @@
+{
+  "name": "typescriptlearn",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon --watch src  -e ts --exec tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webxukai/TypeScriptLearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webxukai/TypeScriptLearn/issues"
+  },
+  "homepage": "https://github.com/webxukai/TypeScriptLearn#readme"
+}
